@@ -1,0 +1,19 @@
+body {
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+.placeholder {
+  background-color: #F2F2F2;
+  border:1px solid grey;
+  margin: 16px;
+  padding: 8px;
+}
+
+a {
+  color: #00B7FF;
+  padding-right: 16px;
+}
+
+.selected {
+  font-weight: bold;
+}
